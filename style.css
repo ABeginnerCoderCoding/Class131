@@ -1,0 +1,22 @@
+body{
+    background-size: 100%;
+    color:antiquewhite;
+}
+h1{
+    width: 100%;
+}
+img{
+    box-shadow: 5px 5px 5px aqua;
+}
+.test_image_and_result{
+    padding:10px;
+}
+.copy_right_footer{
+   position: fixed;
+   color: rgb(98, 72, 77);
+   bottom: 0;
+   width: 100%; 
+   background-color: rgb(255, 255, 205);
+   line-height: 3;
+   text-align: center;
+}
